@@ -1,0 +1,14 @@
+C:\Users\12\source\repos\WS2\WS2\bin\Debug\net7.0\WS2.exe
+C:\Users\12\source\repos\WS2\WS2\bin\Debug\net7.0\WS2.deps.json
+C:\Users\12\source\repos\WS2\WS2\bin\Debug\net7.0\WS2.runtimeconfig.json
+C:\Users\12\source\repos\WS2\WS2\bin\Debug\net7.0\WS2.dll
+C:\Users\12\source\repos\WS2\WS2\bin\Debug\net7.0\WS2.pdb
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\WS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\WS2.AssemblyInfoInputs.cache
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\WS2.AssemblyInfo.cs
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\WS2.csproj.CoreCompileInputs.cache
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\WS2.dll
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\refint\WS2.dll
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\WS2.pdb
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\WS2.genruntimeconfig.cache
+C:\Users\12\source\repos\WS2\WS2\obj\Debug\net7.0\ref\WS2.dll
